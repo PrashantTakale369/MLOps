@@ -32,6 +32,8 @@
 
 
 8> git push -u origin main  :---- >   Uploads your code to GitHub.
+git push -f origin main   < ---- if not working try this lol 
+
 
 9> git pull origin main
 
