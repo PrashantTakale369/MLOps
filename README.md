@@ -4,4 +4,4 @@ This repository is my personal MLOps learning journey. I am learning MLOps step 
 
 ## Table of Contents- 
 - Git_and_GitHub : [https://github.com/PrashantTakale369/MLOps/tree/main/Git_and_GIthub]
-- Py_Oops : [https://github.com/PrashantTakale369/MLOps/tree/main/ Py_Oops]
+- Py_Oops : [https://github.com/PrashantTakale369/MLOps/tree/main/Py_Oops]
