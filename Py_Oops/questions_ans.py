@@ -37,8 +37,7 @@
     -- > like a = x ,  b = y 
     -- > then print( a + b) --- > return the  xy 
 
-    but logically we want x + y   --- > so we can creat oue owe datatype : 
+    but logically we want x + y   --- > so we can creat oue owe datatype :  ok 
 
 
-    
 """
