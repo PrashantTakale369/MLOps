@@ -76,7 +76,7 @@ git push -f origin main
 
       //// : 
  
-      1 > git rm --cached Py_Oops/file name    ---- >  Remove the file and then Push ok 
+      1 > git rm --cached Py_Oops/file name    ---- >  Remove the file and then Push 
 
       
 """
