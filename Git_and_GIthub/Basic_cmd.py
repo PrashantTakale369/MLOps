@@ -1,4 +1,5 @@
 
+""" 
 /// Basic Cmd \\\
 
 
@@ -12,6 +13,12 @@
 
 
 3> git add file.txt  -- > one particular file 
+
+
+
+
+--------------------------------------------------- >>>  
+
 4> git add .         -- > entier project 
 
 
@@ -27,12 +34,17 @@
 
 
 
-7> git remote add origin https://github.com/username/repo-name.git    : ---- > Connect Local Repo to GitHub
+7> git remote add origin https://github.com/username/repo-name.git    
+: ---- > Connect Local Repo to GitHub
 
 
 
-8> git push -u origin main  :---- >   Uploads your code to GitHub.
-git push -f origin main   < ---- if not working try this lol 
+8> git push -u origin main  
+:---- >   Uploads your code to GitHub.
+
+
+git push -f origin main   
+< ---- if not working try this lol 
 
 
 9> git pull origin main
@@ -44,15 +56,14 @@ git push -f origin main   < ---- if not working try this lol
 //// Branch Commands (Very Important) \\\\
 
 
-1️ > Check Branch ---- > git branch
+1 >  Check Branch ---- > git branch
 
-2️ >  Create New Branch --- > git branch feature/login
+2 >  Create New Branch --- > git branch feature/login
 
-3️ >  Switch Branch --- > git checkout feature/login 
+3 >  Switch Branch --- > git checkout feature/login 
                    --- > git switch feature/login
 
-4️ > Create + Switch Together  --- > git checkout -b feature/login
-
+4 > Create + Switch Together  --- > git checkout -b feature/login
 
 
 ---->  Branching (parallel work) < --- 
@@ -60,3 +71,12 @@ git push -f origin main   < ---- if not working try this lol
 5 > Merge Branch
       --- > git checkout main
       --- > git merge feature/login
+
+
+
+      //// : 
+ 
+      1 > git rm --cached Py_Oops/file name    ---- >  Remove the file and then Push ok 
+
+      
+"""

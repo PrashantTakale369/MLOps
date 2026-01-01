@@ -30,7 +30,7 @@ sam.travel("Prashant Takale")   # < --- obj to fun calling
 -- >  __init__ is a special method that runs automatically when an object is created.
 -- > if we not write (__init__) then Python creates a default constructor for you.
 
-2 > Why is self used
+2 > Why is ( self )  used
 -- > self means current object.
 -- > Without self, Python won't know which object's data you are talking about
 
